@@ -24,7 +24,7 @@ import numpy as np
 # In[3]:
 
 
-iris_df = pd.read_csv('D:\GRIP_Tasks\Iris.csv')
+iris_df = pd.read_csv('https://drive.google.com/u/0/uc?id=11Iq7YvbWZbt8VXjfm06brx66b10YiwK-&export=download')
 iris_df.head()
 
 
